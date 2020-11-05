@@ -1,4 +1,9 @@
 /* INI DALAH CSS AWAL */
+    body {
+        height: 600px;
+        width: auto;
+    }
+
     h1 {
  		
  		font-family: verdana;
