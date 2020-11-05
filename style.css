@@ -1,0 +1,56 @@
+/* INI DALAH CSS AWAL */
+    h1 {
+ 		
+ 		font-family: verdana;
+ 	}
+    .satu {
+        text-align: center;
+    }
+ 	p.satu {
+ 		text-align: center;
+        font-family: helvetica;
+    }
+    .dua { 
+    	/*border-style: solid dashed;
+    	border-color: pink;
+        border-width: 10px 7px;*/
+    }
+    .tiga {
+    	margin:25px 450px 25px 450px;
+        padding:7px;
+    }
+    .empat {
+        margin:15px 350px 15px 350px;
+
+    }
+    .foto {
+        background-image: url(image/taylorcantik.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    body{ 
+        background: lightblue;
+        /*background-image: url(image/taylorcantik.jpg);
+        background-repeat: no-repeat;
+        background-size: 300px 150px;
+        background-position: top;*/
+    }
+
+    .text {
+         font-size: 55px;
+         color: lightblue;
+         text-shadow: 3px 3px 1px pink, -3px -3px 1px pink;
+         font-family: "font 1",arial;
+    }
+
+    .text2 {
+
+          font-size: 35px;
+          color: white;
+          text-shadow: 0px 1px 1px black;
+          font-family: "font 1",arial;
+
+    }
+
+    

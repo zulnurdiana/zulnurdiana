@@ -1,0 +1,110 @@
+body {
+	font-family: verdana;
+}
+
+
+
+li {
+	list-style: none;
+}
+
+.header {
+	 height: 90px;
+	 background-color: #92d822;
+	 color: #fff ;
+}
+
+.main {
+	height: 700px;
+	background-color: #fff;
+	color: #9ced1b;
+	
+}
+
+.footer {
+	height: 150px;
+	background-color: #6c9e1c;
+	color: #fff;
+	padding: 40px;
+}
+
+
+/*INI BAGIAN HEADER*/
+.header-logo {
+	 float: left;
+	 padding: 25px 45px;
+	 font-size: 25px;
+}
+
+.header-list li {
+	float: left;
+	font-size: 15px;
+	padding: 32px 15px;
+}
+
+
+
+/*INI BAGIAN MAIN*/
+
+
+.copy-container {
+	text-align: center;
+	
+}
+
+.copy-container p {
+	 font-size: 35px;
+	 margin-top: -20px;
+}
+
+.contents {
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 60px;
+}
+
+.section-title {
+	border-bottom: 2px solid #9ced1b;
+	padding-bottom: 10px;
+	margin-right: 150px;
+}
+
+.contents-item {
+	float: left;
+	margin-right: 40px;
+}
+
+.contents-item img {
+	width: 250px;
+	height: auto;
+	filter: blur(5px);
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.contents-item img:hover {
+    filter: blur(0);
+}
+
+.contents-item p {
+	text-align:center;
+	font-size: 16px;
+	color: black;
+}
+
+
+
+
+/*INI BAGIAN FOOTER*/
+.footer-logo {
+	font-size: 36px;
+	float: left;
+}
+
+.footer-list{
+	float: right;
+}
+
+.footer-list li {
+	padding-bottom: 20px;
+}
