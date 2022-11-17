@@ -4,13 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulnurdiana&label=Profile%20views&color=0e75b6&style=flat" alt="zulnurdiana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zulnurdiana" target="blank"><img src="https://img.shields.io/twitter/follow/zulnurdiana?logo=twitter&style=for-the-badge" alt="zulnurdiana" /></a> </p>
+
 
 - 🌱 I’m currently learning **Fullstack technologies especially web development**
 
 - 📫 How to reach me **zulnurdiana@gmail.com**
 
-- ⚡ Fun fact **I think I am unique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
