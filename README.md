@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zulnurdiana@gmail.com**
 
-- ⚡ Fun fact **I love pretty much Cat.**
+- ⚡ Fun fact **I love pretty much Cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
