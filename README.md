@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zulfikar Nurdiana</h1>
 
-🌱 I’m currently learning **Web Development & DevOps** </br>
+🌱 I’m currently learning **Web Dev & DevOps** </br>
 📫 How to reach me **zulnurdiana@gmail.com** </br>
 ⚡ Fun fact **I love pretty much Cat** </br>
 
